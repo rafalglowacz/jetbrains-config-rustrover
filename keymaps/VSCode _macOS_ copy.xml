@@ -31,6 +31,10 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Console.History.Browse" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
